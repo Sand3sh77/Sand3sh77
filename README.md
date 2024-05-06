@@ -141,7 +141,7 @@
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
         <!-- Adobe XD Icon -->
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40" />
+        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHG5odqfwSG7mmIw2s5r6SHX2Pi4h_UtbQKS9j-W7MZxhdg88w" alt="Adobe XD" width="40" height="40" />
     </a>
 </p>
 
