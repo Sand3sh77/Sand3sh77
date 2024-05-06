@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Exam Management System](exam-ms.vercel.app)
 
-- 💬 Ask me about **reactJS, nextJS, nodeJS ande more..**
+- 💬 Ask me about **reactJS, nextJS, nodeJS and more..**
 
 - 📫 How to reach me **subedisandesh0123@gmail.com**
 
