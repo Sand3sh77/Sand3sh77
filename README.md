@@ -22,7 +22,7 @@
         <!-- Instagram Icon -->
         <img align="center"
             src="https://dev-sandesh.vercel.app/images/favicon.png"
-            alt="Portfolio" height="42" width="40" />
+            alt="Portfolio" height="40" width="40" />
     </a>
     <a href="https://fb.com/sandesh.subedi.3979" target="_blank">
         <!-- Facebook Icon -->
