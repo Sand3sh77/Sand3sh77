@@ -18,6 +18,12 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="LinkedIn" height="30" width="40" />
     </a>
+    <a href="https://dev-sandesh.vercel.app" target="_blank">
+        <!-- Instagram Icon -->
+        <img align="center"
+            src="https://dev-sandesh.vercel.app/favicon.ico"
+            alt="Portfolio" height="30" width="40" />
+    </a>
     <a href="https://fb.com/sandesh.subedi.3979" target="_blank">
         <!-- Facebook Icon -->
         <img align="center"
