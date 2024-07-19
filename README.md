@@ -18,10 +18,10 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://dev-sandesh.vercel.app" target="_blank">
+    <a href="https://subedisandesh7.com.np" target="_blank">
         <!-- Instagram Icon -->
         <img align="center"
-            src="https://dev-sandesh.vercel.app/images/favicon.png"
+            src="https://subedisandesh7.com.np/images/favicon.png"
             alt="Portfolio" height="40" width="40" />
     </a>
     <a href="https://fb.com/sandesh.subedi.3979" target="_blank">
