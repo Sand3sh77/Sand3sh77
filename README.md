@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sand3sh77&label=Profile%20views&color=0e75b6&style=flat"
         alt="sand3sh77" /> </p>
 
-- 🔭 I’m currently working on [ACS APP]([https://play.google.com/store/apps/details?id=com.sandesh77.ACSApp])
+- 🔭 I’m currently working on [ACS App](https://play.google.com/store/apps/details?id=com.sandesh77.ACSApp)
 
 - 💬 Ask me about **reactJS, nextJS, nodeJS and more..**
 
 - 📫 How to reach me **subedisandesh0123@gmail.com**
 
-- 🔭 Work Account [Sandesh-nipuna]([https://github.com/Sandesh-nipuna])
+- 🔭 Work Account [Sandesh-nipuna](https://github.com/Sandesh-nipuna)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
